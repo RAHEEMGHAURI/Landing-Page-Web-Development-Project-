@@ -1,22 +1,30 @@
-SnapSound Portfolio Website
-Welcome to SnapSound's portfolio website repository! This project showcases the craftsmanship and creativity of SnapSound, a dedicated team passionate about bringing stories to life through filmmaking.
-
-About
-SnapSound is committed to providing end-to-end services for independent filmmakers. From pre-production insights to post-production support, we offer the expertise and dedication needed to elevate your vision.
+SnapSound Landing Page
+This is a simple landing page for SnapSound, a platform dedicated to filmmakers and storytellers. The page provides essential information about the services offered and aims to attract potential clients.
 
 Features
-Attention-Grabbing Design: Our website boasts a captivating design aimed at capturing the essence of storytelling.
-Responsive Layout: Ensuring accessibility across devices, our website adapts seamlessly to various screen sizes.
-Engaging Content: Through compelling visuals and concise messaging, we communicate our commitment to filmmaking excellence.
-Technologies Used
-HTML
-CSS
-Getting Started
-To explore our portfolio website locally, simply clone this repository and open index.html in your preferred web browser.
+Responsive Design: The landing page is designed to be responsive and compatible with various devices, ensuring a seamless user experience.
 
-bash
-Copy code
-git clone https://github.com/your-username/snap-sound-portfolio.git
-cd snap-sound-portfolio
-Contributing
-We welcome contributions to enhance our portfolio website further. Whether it's refining existing features or proposing new ideas, feel free to submit pull requests.
+Clear Navigation: The navigation bar provides easy access to different sections of the website, including Home, Pricing, Contact, and About.
+
+Engaging Content: The content emphasizes the importance of storytelling and creativity, resonating with independent filmmakers and storytellers.
+
+Service Highlights: Three key features are highlighted, emphasizing the end-to-end service, passion, energy, and the perfect match for each project.
+
+Technologies Used
+HTML: Structured the content of the page using HTML5 for semantic markup.
+
+CSS: Styled the elements of the page with CSS3 for a clean and visually appealing layout.
+
+Getting Started
+To view the landing page:
+
+Clone the repository to your local machine.
+Open the index.html file in your preferred web browser.
+Preview
+
+Credits
+Icons: Icons used in the landing page were sourced from Iconfinder.
+Contributors
+Muhammad Abdul Raheem - Lead Developer
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
