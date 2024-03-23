@@ -20,11 +20,12 @@ To view the landing page:
 
 Clone the repository to your local machine.
 Open the index.html file in your preferred web browser.
-Preview
 
 Credits
 Icons: Icons used in the landing page were sourced from Iconfinder.
+
 Contributors
 Muhammad Abdul Raheem - Lead Developer
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
